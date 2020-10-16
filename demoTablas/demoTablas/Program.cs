@@ -8,6 +8,10 @@ namespace demoTablas
         {
             Console.WriteLine("---------LICENCIATURA INGENIERIA DE SOFTWARE---------------------");
             Console.WriteLine("---------PROYECTOS PROFESIONALES DE SOFTWARE---------------------");
+            Console.WriteLine("---------ACTIVIDAD AG6 ------------------------------------------");
+            Console.WriteLine("---------SINCRONIZACION AZURE DEVOPS Y GITHUB--------------------");
+            Console.WriteLine("                                                                 ");
+            Console.WriteLine("---------EQUIPO 2 -----------------------------------------------");
 
             for (int i = 1; i <= 10; i++)
             {
