@@ -12,6 +12,11 @@ namespace demoTablas
             Console.WriteLine("---------SINCRONIZACION AZURE DEVOPS Y GITHUB--------------------");
             Console.WriteLine("                                                                 ");
             Console.WriteLine("---------EQUIPO 2 -----------------------------------------------");
+            Console.WriteLine("- Bautista Reyes Edmundo");
+            Console.WriteLine("- Cruz Ortega Reynaldo");
+            Console.WriteLine("- Monroy Sánchez Rufina");
+            Console.WriteLine("- Ramírez Bedolla Edith");
+            Console.WriteLine("-----------------------------------------------------------------");
 
             for (int i = 1; i <= 10; i++)
             {
