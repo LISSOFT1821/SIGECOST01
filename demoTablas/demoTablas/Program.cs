@@ -6,6 +6,9 @@ namespace demoTablas
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("---------LICENCIATURA INGENIERIA DE SOFTWARE---------------------");
+            Console.WriteLine("---------PROYECTOS PROFESIONALES DE SOFTWARE---------------------");
+
             for (int i = 1; i <= 10; i++)
             {
                 Console.WriteLine("\nTabla de multiplicar del {0}", i);
@@ -16,6 +19,7 @@ namespace demoTablas
                 }
             }
             Console.ReadKey();
+
         }
     }
 }
