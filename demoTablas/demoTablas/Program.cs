@@ -6,7 +6,9 @@ namespace demoTablas
     {
         static void Main(string[] args)
         {
+             Console.WriteLine("---------UNIDEH---------------------");
             Console.WriteLine("---------LICENCIATURA INGENIERIA DE SOFTWARE---------------------");
+            Console.WriteLine("---------LUIS ROBERTO MORALES MANILLA----------------------------");
             Console.WriteLine("---------PROYECTOS PROFESIONALES DE SOFTWARE---------------------");
             Console.WriteLine("---------ACTIVIDAD AG6 ------------------------------------------");
             Console.WriteLine("---------SINCRONIZACION AZURE DEVOPS Y GITHUB--------------------");
