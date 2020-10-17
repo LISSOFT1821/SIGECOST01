@@ -10,8 +10,12 @@ namespace demoTablas
             Console.WriteLine("---------PROYECTOS PROFESIONALES DE SOFTWARE---------------------");
             Console.WriteLine("---------ACTIVIDAD AG6 ------------------------------------------");
             Console.WriteLine("---------SINCRONIZACION AZURE DEVOPS Y GITHUB--------------------");
+            Console.WriteLine("-----------------------------------------------------------------");
+            Console.WriteLine("------------------PRUEBA FINAL DE SINCRONIZACION-----------------");
+            Console.WriteLine("--------------------16 OCTUBRE 2020------------------------------");
             Console.WriteLine("                                                                 ");
             Console.WriteLine("---------EQUIPO 2 -----------------------------------------------");
+            Console.WriteLine("-----------------------------------------------------------------");
             Console.WriteLine("- Bautista Reyes Edmundo");
             Console.WriteLine("- Cruz Ortega Reynaldo");
             Console.WriteLine("- Monroy Sánchez Rufina");
