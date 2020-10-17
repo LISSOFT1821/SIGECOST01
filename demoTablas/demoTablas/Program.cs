@@ -18,6 +18,7 @@ namespace demoTablas
             Console.WriteLine("                                                                 ");
             Console.WriteLine("---------EQUIPO 2 -----------------------------------------------");
             Console.WriteLine("-----------------------------------------------------------------");
+            Console.WriteLine("-----------------------------------------------------------------");
             Console.WriteLine("- Bautista Reyes Edmundo");
             Console.WriteLine("- Cruz Ortega Reynaldo");
             Console.WriteLine("- Monroy Sánchez Rufina");
